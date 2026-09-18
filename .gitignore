@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.db
+*.ipch
+ipch/
+*.log
+DocumentLayout*.json
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+Win32/
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# OS
+.DS_Store
+Thumbs.db
