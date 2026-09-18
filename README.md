@@ -28,7 +28,7 @@ Après 10 victoires, la partie se termine sur l'une de trois fins possibles selo
 
 ## Design orienté données
 
-Le contenu du jeu (monstres, items, actions) est entièrement défini dans des fichiers `.csv` externes plutôt que codé en dur — ajouter un nouveau monstre ou objet ne nécessite aucune modification du code source.
+Le contenu du jeu (monstres, items, actions) est entièrement défini dans des fichiers `.csv` externes plutôt que codé en dur. Ajouter un nouveau monstre ou objet ne nécessite aucune modification du code source.
 
 ## Stack
 
